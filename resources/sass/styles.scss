@@ -1,0 +1,27 @@
+.user-image {
+    width: 2em;
+    border-radius: 50px;
+    height: 2em;
+    margin: 0px 0px 0px 12px;
+
+}
+
+.dropdown-toggle::after{
+    content: none;
+}
+
+.card{
+    box-shadow:2px 2px 4px 2px rgb(0, 0, 0, 0.08) ;
+}
+
+.form-checks {
+    display: block;
+    /* min-height: 1.44rem; */
+    padding-left: 1.5em;
+    margin-bottom: 0.125rem;
+    
+}
+
+.form-control{
+    background-color: #effff9;
+}
